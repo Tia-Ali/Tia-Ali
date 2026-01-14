@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey, I’m Tia 👋  
 
-<!--
-**Tia-Ali/Tia-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building interactive projects at the intersection of **cloud engineering, software development, and storytelling**
+- 🌱 I’m currently learning cloud engineering and software engineering through hands-on project work  
+- 🎮 I’m especially interested in applying technical skills to create interactive experiences and narrative-driven systems  
+- 🤝 I’m open to mentorship, collaboration, and learning alongside other developers and creatives  
+- ✨Languages & Technologies
+  - **Languages:** Python, JavaScript, HTML, CSS, 
+  - **Cloud & Tools:** AWS (S3, Lambda, API Gateway), Linux 
+    
+- 🎓 Cloud Engineering: AWS re/Start
+- 🎓 Software Engineering: Independant learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ❤️ I’m early in my journey, but focused on learning by building real projects, experimenting boldly, and improving with each iteration.
