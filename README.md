@@ -10,6 +10,6 @@
   - **Cloud & Tools:** AWS (S3, Lambda, API Gateway), Linux 
     
 - 🎓 Cloud Engineering: AWS re/Start
-- 🎓 Software Engineering: Independant learning 
+- 🎓 Code First Girls Degree / Full Stack Engineering 
 
 - ❤️ I’m early in my journey, but focused on learning by building real projects, experimenting boldly, and improving with each iteration.
